@@ -1,4 +1,6 @@
 # GodotSteam for Godot Engine 4.x
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGodotSteam%2FGodotSteam.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FGodotSteam%2FGodotSteam?ref=badge_shield)
+
 An ecosystem of tools for [Godot Engine](https://godotengine.org) and [Valve's Steam](https://store.steampowered.com). For the Windows, Linux, and Mac platforms.
 
 Additional Flavors
@@ -79,3 +81,7 @@ Alternatively, you can just [download the pre-compiled versions in our Releases 
 License
 ---
 MIT license
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FGodotSteam%2FGodotSteam.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FGodotSteam%2FGodotSteam?ref=badge_large)
